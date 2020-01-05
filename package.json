@@ -43,7 +43,8 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test",
+    "pretest": "npx create-react-app demo --template file:.",
+    "test": "cd demo && npm run test",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {

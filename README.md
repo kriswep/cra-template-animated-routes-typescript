@@ -2,6 +2,8 @@
 
 This is a template for [Create React App](https://github.com/facebook/create-react-app), setting you up with Routing, powered by [React Router](https://reacttraining.com/react-router/web/), an modern animation API, [react-spring](https://www.react-spring.io/) and TypeScript.
 
+[![CircleCI](https://circleci.com/gh/kriswep/cra-template-animated-routes-typescript.svg?style=svg)](https://circleci.com/gh/kriswep/cra-template-animated-routes-typescript)
+
 ## Getting started
 
 Bootstrap your new React app with one command (change my-app to whatever you call your project):
