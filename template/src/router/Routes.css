@@ -1,0 +1,6 @@
+.Route-animation {
+  position: absolute;
+  width: 100%;
+  width: calc(100% - 2rem);
+  margin: 6rem 1rem 0;
+}

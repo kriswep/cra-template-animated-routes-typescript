@@ -1,18 +1,11 @@
-# Animated Routes CRA template with TypeScript support
-
-This is a template for [Create React App](https://github.com/facebook/create-react-app), setting you up with Routing, powered by [React Router](https://reacttraining.com/react-router/web/), an modern animation API, [react-spring](https://www.react-spring.io/) and TypeScript.
-
-## Getting started
-
-Bootstrap your new React app with one command (change my-app to whatever you call your project):
-
-`npx create-react-app my-app --template @cra-community/animated-routes-typescript`
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and the [Animated Routes TypeScript template](https://github.com/kriswep/cra-template-animated-routes-typescript#readme).
 
 ## Available Scripts
 
+Same scripts and base features as in a plain [Create React App](https://github.com/facebook/create-react-app) are available.
 In the project directory, you can run:
 
-### `yarn start`
+### `npm run start`
 
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
@@ -20,12 +13,12 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
-### `yarn test`
+### `npm run test`
 
 Launches the test runner in the interactive watch mode.<br />
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `yarn build`
+### `npm run build`
 
 Builds the app for production to the `build` folder.<br />
 It correctly bundles React in production mode and optimizes the build for the best performance.
@@ -35,7 +28,7 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `yarn eject`
+### `npm run eject`
 
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
@@ -50,3 +43,27 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+
+### Analyzing the Bundle Size
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+
+### Making a Progressive Web App
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+
+### Advanced Configuration
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
+
+### Deployment
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
+
+### `npm run build` fails to minify
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
